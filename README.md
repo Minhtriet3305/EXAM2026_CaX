@@ -1,6 +1,6 @@
 # BÁO CÁO BÀI THI THỰC HÀNH - KỲ THI 2026
 **Môn thi:** Phát triển ứng dụng Web (HTML/CSS/JS & ReactJS)  
-**Ca thi:** [Điền Ca thi của bạn, ví dụ: Ca 1 / Ca 2]
+**Ca thi:** Ca 1
 
 ---
 
